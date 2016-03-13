@@ -1,7 +1,18 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.09505906
 color:
   saturation: 0.4425594
-  lightness: 0.8690802
   brandStrength: 0.3432247
   rhythmicContrast: 0.8536653
   brandColors:
@@ -10,5 +21,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.8533874
+  lightness: 0.8690802
+layout_spectrum: 1
 name: 'Undiscovered Star Entertainment. '
