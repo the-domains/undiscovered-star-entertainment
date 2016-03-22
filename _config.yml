@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.09505906
 color:
-  saturation: 0.4425594
+  saturation: 0.8361976
   brandStrength: 0.3432247
-  lightness: 0.8690802
+  lightness: 0.4957035
   brandColors:
     - '#EAA760'
     - '#FFFFFF'
     - '#030303'
     - '#E12101'
     - '#7E2225'
-  rhythmicContrast: 0.8536653
-typography_spectrum: 0.09505906
+  rhythmicContrast: 0.1487648
 layout_spectrum: 1
 name: 'Undiscovered Star Entertainment. '
