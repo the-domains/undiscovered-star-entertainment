@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Undiscovered Star Entertainment. ]]></title>
         <description><![CDATA[Undiscovered Star Entertainment. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/undiscovered-star-entertainment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 15:56:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 16:14:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/undiscovered-star-entertainment/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75b4c2f7-dc6b-4f0e-928a-ddbe5616d195.png">]]></description>
+            <link>https://thegrid.ai/undiscovered-star-entertainment/91257e34-cd2b-42f9-858c-08529789a8b8/index.html</link>
+            <guid isPermaLink="false">91257e34-cd2b-42f9-858c-08529789a8b8</guid>
+            <pubDate>Tue, 22 Mar 2016 16:14:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f11ab1a1-7591-4346-85c9-830f8d39b017.png">]]></description>
-            <link>undefinedb9362c7c-8391-44c7-8591-a94b560b43af/index.html</link>
+            <link>https://thegrid.ai/undiscovered-star-entertainment/b9362c7c-8391-44c7-8591-a94b560b43af/index.html</link>
             <guid isPermaLink="false">b9362c7c-8391-44c7-8591-a94b560b43af</guid>
             <pubDate>Tue, 22 Mar 2016 15:56:15 GMT</pubDate>
         </item>
