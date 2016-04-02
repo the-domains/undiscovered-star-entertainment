@@ -1,3 +1,7 @@
+name: 'Undiscovered Star Entertainment. '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.09505906
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.09505906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5590762
-  brandStrength: 0.3432247
-  lightness: 0.5053706
   brandColors:
     - '#EAA760'
     - '#FFFFFF'
     - '#030303'
     - '#E12101'
     - '#7E2225'
+  brandStrength: 0.3432247
+  lightness: 0.5053706
+  saturation: 0.5590762
   rhythmicContrast: 0.2593985
-layout_spectrum: 0.4677766
-name: 'Undiscovered Star Entertainment. '
+purpose: []
